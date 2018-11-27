@@ -1,0 +1,38 @@
+.previous{
+	float: left;
+	margin-left: 600px;
+	background-color: black;
+	border-radius: 100%;
+	width: 1.65%;
+    text-align: center;
+}
+
+.next{
+	float: right;
+	margin-right: 600px;
+	background-color: black;
+	border-radius: 100%;
+	width: 1.65%;
+	text-align: center
+}
+
+.box{
+	  position: relative;
+	  width:60px;
+	  height: 60px;
+	  margin:4px;
+	  display:inline-block;
+	}
+
+.purple{background-color:purple}
+.orange{background-color:orange}
+.pink{background-color:#ff69a0}
+.black{background-color:black}
+
+
+#boxes{
+  width:80%;
+  margin:auto;
+  margin-top: 275px;
+  text-align: center;
+}
